@@ -190,4 +190,4 @@ For strongest coverage, use it with:
 
 ## License
 
-See the repository license.
+MIT. See `LICENSE`.
